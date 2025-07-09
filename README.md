@@ -22,13 +22,14 @@ payload:
 }
 If you want to get floor the price of a collection of a specific one without attributes by default, send to the "All" attributes
 
-![image](https://github.com/user-attachments/assets/dde2fd14-cb84-4352-b979-f9eb98ae8823)
+![img1](https://github.com/user-attachments/assets/7aabf830-b3d8-4553-a793-4c204e318b3c)
+
 
 # With attributes(model,symbol,backdrop)
 
 Just instead of the default "All", indicate the name symbol/backdrop/model
 
-![image](https://github.com/user-attachments/assets/c8e6b00a-956b-4b6c-b210-8356b447cec4)
+![img2](https://github.com/user-attachments/assets/1d0c4906-bb49-4670-9021-080b5705201a)
 
 
 > Ask the question you are interested in [Telegram](https://t.me/swiftgifts_chat)
